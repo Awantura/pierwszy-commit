@@ -11,7 +11,7 @@ public class InstructionExercise {
         }
 
 
-        double percentage = 20.0;
+        double percentage = 65.0;
          if (percentage >= 0 && percentage < 20){
              System.out.println("Ocena niedostateczna.");
          }

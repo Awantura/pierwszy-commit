@@ -15,7 +15,7 @@ public class FizzBuzz {
             System.out.println("Buzz");
         }
         else if (number % 3 == 0) {
-            System.out.println("Fizz");
+            System.out.println("Fizzz");
         }
         else {
             System.out.println("N/A");
